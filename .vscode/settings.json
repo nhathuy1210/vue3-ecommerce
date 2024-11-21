@@ -1,0 +1,7 @@
+{
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "cSpell.enableFiletypes": [
+        "!javascript",
+        "!vue"
+    ]
+}

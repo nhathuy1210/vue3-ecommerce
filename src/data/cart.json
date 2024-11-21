@@ -1,0 +1,92 @@
+{
+  "carts": [
+    {
+      "userId": 8,
+      "items": []
+    },
+    {
+      "userId": 4,
+      "items": []
+    },
+    {
+      "userId": 3,
+      "items": [
+        {
+          "id": 26,
+          "name": "Logitech MX Master 4",
+          "price": 99.99,
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg",
+          "quantity": 3
+        },
+        {
+          "id": 17,
+          "name": "JBL Flip 7",
+          "price": 129.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/2/_/2_64_31_3.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 22,
+          "name": "Beats Studio Buds",
+          "price": 149.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/j/mj4x3_1.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "Samsung Galaxy S24",
+          "price": 1099.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/s/a/samsung-galaxy-s24-ultra_1_.png",
+          "quantity": 1
+        },
+        {
+          "id": 1,
+          "name": "iPhone 15 Pro Max",
+          "price": 1199.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_3.png",
+          "quantity": 1
+        },
+        {
+          "id": 25,
+          "name": "Amazon Fire HD 11",
+          "price": 299.99,
+          "image": "https://m.media-amazon.com/images/I/51gj5oQXbnL._AC_SL1000_.jpg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 2,
+      "items": [
+        {
+          "id": 13,
+          "name": "Sony WF-1000XM5",
+          "price": 199.99,
+          "quantity": 1
+        },
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 25,
+          "name": "Amazon Fire HD 11",
+          "price": 299.99,
+          "image": "https://m.media-amazon.com/images/I/51gj5oQXbnL._AC_SL1000_.jpg",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "userId": 9,
+      "items": []
+    },
+    {
+      "userId": 7,
+      "items": []
+    }
+  ]
+}

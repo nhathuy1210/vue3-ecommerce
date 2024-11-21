@@ -1,0 +1,87 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "John Doe",
+      "email": "john@example.com",
+      "password": "hashedPassword123",
+      "role": "admin",
+      "status": "active",
+      "phone": "123-456-7890",
+      "address": "123 Main St, City",
+      "joinedDate": "2024-01-01",
+      "orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": 2,
+      "fullName": "Admin User",
+      "email": "admin@example.com",
+      "password": "hashedPassword456",
+      "role": "admin",
+      "status": "active",
+      "phone": "098-765-4321",
+      "address": "456 Admin St, City",
+      "joinedDate": "2024-01-01",
+      "orders": []
+    },
+    {
+      "id": 3,
+      "fullName": "Nhất Huy",
+      "email": "lenhathuy494@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "role": "admin",
+      "status": "active",
+      "joinedDate": "2024-11-05T14:49:23.006Z",
+      "orders": [],
+      "phone": "0336433234",
+      "address": "528D\n371 nguyễn kiệm"
+    },
+    {
+      "id": 4,
+      "fullName": "Trần Thị Cẩm Giang",
+      "email": "giang@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "role": "user",
+      "status": "blocked",
+      "joinedDate": "2024-11-06T02:54:59.827Z",
+      "orders": [],
+      "phone": "0336433234",
+      "address": "528D\n371 nguyễn kiệm"
+    },
+    {
+      "id": 7,
+      "email": "tes123@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "status": "active",
+      "fullName": "Nhất Huy Lê",
+      "phone": "0336433234",
+      "address": "528D\n371 nguyễn kiệm"
+    },
+    {
+      "id": 8,
+      "email": "testprofile@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "status": "active",
+      "fullName": "testprofile6",
+      "phone": "0336433234",
+      "address": "528D"
+    },
+    {
+      "id": 9,
+      "email": "testprofile123@gmail.com",
+      "password": "123456",
+      "role": "user",
+      "status": "blocked",
+      "fullName": "test",
+      "phone": "123456789",
+      "address": "Long An"
+    }
+  ]
+}

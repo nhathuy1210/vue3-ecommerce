@@ -1,0 +1,568 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "userId": 9,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 2
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 197.97799999999998,
+      "status": "shipped",
+      "createdAt": "2024-11-18T03:18:02.385Z",
+      "updatedAt": "2024-11-19T02:10:42.604Z"
+    },
+    {
+      "id": 2,
+      "userId": 9,
+      "items": [
+        {
+          "id": 26,
+          "name": "Logitech MX Master 4",
+          "price": 99.99,
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg",
+          "quantity": 1
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 119.98899999999999,
+      "status": "cancelled",
+      "createdAt": "2024-11-18T09:09:52.028Z",
+      "updatedAt": "2024-11-18T11:39:22.714Z"
+    },
+    {
+      "id": 3,
+      "userId": 9,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 1,
+          "userId": 9
+        },
+        {
+          "id": 26,
+          "name": "Logitech MX Master 4",
+          "price": 99.99,
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg",
+          "quantity": 1,
+          "userId": 9
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 208.97799999999998,
+      "status": "cancelled",
+      "createdAt": "2024-11-18T10:32:33.006Z",
+      "updatedAt": "2024-11-18T11:40:19.094Z"
+    },
+    {
+      "id": 4,
+      "userId": 9,
+      "items": [
+        {
+          "id": 35,
+          "name": "Amazon Kindle Paperwhite",
+          "price": 149.99,
+          "image": "https://m.media-amazon.com/images/I/61MdbBO+SEL._AC_SL1500_.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 26,
+          "name": "Logitech MX Master 4",
+          "price": 99.99,
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg",
+          "quantity": 2
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 549.956,
+      "status": "shipped",
+      "createdAt": "2024-11-18T10:37:44.170Z",
+      "updatedAt": "2024-11-19T02:10:48.864Z"
+    },
+    {
+      "id": 5,
+      "userId": 9,
+      "items": [
+        {
+          "id": 26,
+          "name": "Logitech MX Master 4",
+          "price": 99.99,
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg",
+          "quantity": 3
+        },
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 22,
+          "name": "Beats Studio Buds",
+          "price": 149.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/m/j/mj4x3_1.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 48,
+          "name": "Beats Studio Buds",
+          "price": 149.99,
+          "image": "https://m.media-amazon.com/images/I/51BJNa3uziL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 17,
+          "name": "JBL Flip 7",
+          "price": 129.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/2/_/2_64_31_3.jpg",
+          "quantity": 4
+        },
+        {
+          "id": 35,
+          "name": "Amazon Kindle Paperwhite",
+          "price": 149.99,
+          "image": "https://m.media-amazon.com/images/I/61MdbBO+SEL._AC_SL1500_.jpg",
+          "quantity": 2
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "test1",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 1825.8570000000002,
+      "status": "cancelled",
+      "createdAt": "2024-11-18T10:56:40.932Z",
+      "updatedAt": "2024-11-18T14:38:59.081Z"
+    },
+    {
+      "id": 6,
+      "userId": 9,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 13,
+          "name": "Sony WF-1000XM5",
+          "price": 199.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/a/tai-nghe-khong-day-sony-wf-1000xm5-6_1.png",
+          "quantity": 2
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "test2",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 637.956,
+      "status": "pending",
+      "createdAt": "2024-11-18T11:27:43.680Z",
+      "updatedAt": "2024-11-18T11:27:43.680Z"
+    },
+    {
+      "id": 7,
+      "userId": 9,
+      "items": [
+        {
+          "id": 26,
+          "name": "Logitech MX Master 4",
+          "price": 99.99,
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg",
+          "quantity": 3
+        },
+        {
+          "id": 17,
+          "name": "JBL Flip 7",
+          "price": 129.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/2/_/2_64_31_3.jpg",
+          "quantity": 1
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "test2",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 472.95599999999996,
+      "status": "pending",
+      "createdAt": "2024-11-18T11:34:53.189Z",
+      "updatedAt": "2024-11-18T11:34:53.189Z"
+    },
+    {
+      "id": 8,
+      "userId": 9,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 7
+        },
+        {
+          "id": 26,
+          "name": "Logitech MX Master 4",
+          "price": 99.99,
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg",
+          "quantity": 7
+        },
+        {
+          "id": 35,
+          "name": "Amazon Kindle Paperwhite",
+          "price": 149.99,
+          "image": "https://m.media-amazon.com/images/I/61MdbBO+SEL._AC_SL1500_.jpg",
+          "quantity": 3
+        },
+        {
+          "id": 17,
+          "name": "JBL Flip 7",
+          "price": 129.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/2/_/2_64_31_3.jpg",
+          "quantity": 1
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 2100.802,
+      "status": "cancelled",
+      "createdAt": "2024-11-18T13:02:55.012Z",
+      "updatedAt": "2024-11-18T14:39:25.012Z"
+    },
+    {
+      "id": 9,
+      "userId": 9,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 8
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 791.9119999999999,
+      "status": "pending",
+      "createdAt": "2024-11-18T13:24:26.199Z",
+      "updatedAt": "2024-11-18T13:24:26.199Z"
+    },
+    {
+      "id": 10,
+      "userId": 9,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 1
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 108.98899999999999,
+      "status": "pending",
+      "createdAt": "2024-11-18T13:25:25.223Z",
+      "updatedAt": "2024-11-18T13:25:25.223Z"
+    },
+    {
+      "id": 11,
+      "userId": 9,
+      "items": [
+        {
+          "id": 7,
+          "name": "Sony WH-1000XM5",
+          "price": 349.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/t/a/tai-nghe-chup-tai-sony-wh-1000xm5-2-removebg-preview.png",
+          "quantity": 1
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 384.98900000000003,
+      "status": "pending",
+      "createdAt": "2024-11-18T13:26:14.322Z",
+      "updatedAt": "2024-11-18T13:26:14.322Z"
+    },
+    {
+      "id": 12,
+      "userId": 9,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 1
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "card",
+      "total": 108.98899999999999,
+      "status": "pending",
+      "createdAt": "2024-11-18T13:27:19.636Z",
+      "updatedAt": "2024-11-18T13:27:19.636Z"
+    },
+    {
+      "id": 13,
+      "userId": 9,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 3
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 296.967,
+      "status": "pending",
+      "createdAt": "2024-11-18T13:29:19.793Z",
+      "updatedAt": "2024-11-18T13:29:19.793Z"
+    },
+    {
+      "id": 14,
+      "userId": 9,
+      "items": [
+        {
+          "id": 48,
+          "name": "Beats Studio Buds",
+          "price": 149.99,
+          "image": "https://m.media-amazon.com/images/I/51BJNa3uziL.__AC_SY445_SX342_QL70_FMwebp_.jpg",
+          "quantity": 1
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Trần Thị Cẩm Giang",
+        "address": "Long An",
+        "city": "Long An",
+        "phone": "123456789"
+      },
+      "paymentMethod": "cod",
+      "total": 164.989,
+      "status": "pending",
+      "createdAt": "2024-11-18T14:34:22.980Z",
+      "updatedAt": "2024-11-18T14:34:22.980Z"
+    },
+    {
+      "id": 15,
+      "userId": 9,
+      "items": [],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 10,
+      "status": "pending",
+      "createdAt": "2024-11-18T14:37:11.168Z",
+      "updatedAt": "2024-11-18T14:37:11.168Z"
+    },
+    {
+      "id": 16,
+      "userId": 9,
+      "items": [],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 10,
+      "status": "cancelled",
+      "createdAt": "2024-11-18T14:37:11.732Z",
+      "updatedAt": "2024-11-18T14:37:17.447Z"
+    },
+    {
+      "id": 17,
+      "userId": 9,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 26,
+          "name": "Logitech MX Master 4",
+          "price": 99.99,
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg",
+          "quantity": 2
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "testprofile",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 417.95599999999996,
+      "status": "pending",
+      "createdAt": "2024-11-18T17:25:23.731Z",
+      "updatedAt": "2024-11-18T17:25:23.731Z"
+    },
+    {
+      "id": 18,
+      "userId": 7,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 2
+        },
+        {
+          "id": 26,
+          "name": "Logitech MX Master 4",
+          "price": 99.99,
+          "image": "https://m.media-amazon.com/images/I/61ni3t1ryQL._AC_SL1500_.jpg",
+          "quantity": 2
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 417.95599999999996,
+      "status": "cancelled",
+      "createdAt": "2024-11-18T17:50:15.621Z",
+      "updatedAt": "2024-11-19T02:19:03.493Z"
+    },
+    {
+      "id": 19,
+      "userId": 7,
+      "items": [
+        {
+          "id": 43,
+          "name": "Anker PowerCore 26800",
+          "price": 89.99,
+          "image": "https://m.media-amazon.com/images/I/61vj2BPDpuL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+          "quantity": 2
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 197.97799999999998,
+      "status": "pending",
+      "createdAt": "2024-11-19T01:10:21.943Z",
+      "updatedAt": "2024-11-19T01:10:21.943Z"
+    },
+    {
+      "id": 20,
+      "userId": 7,
+      "items": [
+        {
+          "id": 1,
+          "name": "iPhone 15 Pro Max",
+          "price": 1199.99,
+          "image": "https://cdn2.cellphones.com.vn/insecure/rs:fill:0:358/q:90/plain/https://cellphones.com.vn/media/catalog/product/i/p/iphone-15-pro-max_3.png",
+          "quantity": 1
+        }
+      ],
+      "shippingInfo": {
+        "fullName": "Nhất Huy",
+        "address": "528D",
+        "city": "Ben Tre City",
+        "phone": "0336433234"
+      },
+      "paymentMethod": "cod",
+      "total": 1319.989,
+      "status": "pending",
+      "createdAt": "2024-11-19T02:07:28.037Z",
+      "updatedAt": "2024-11-19T02:07:28.037Z"
+    }
+  ]
+}
